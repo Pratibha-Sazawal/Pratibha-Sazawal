@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pratibha-Sazawal
-- 👀 I’m interested in Data Analytics
+- 👀 I’m passionate about Data Analytics
 - 🌱 I’m currently learning SQL, Python, Tableau and Power BI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - pratibhasazawal@gmail.com
 
 <!---
 Pratibha-Sazawal/Pratibha-Sazawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
